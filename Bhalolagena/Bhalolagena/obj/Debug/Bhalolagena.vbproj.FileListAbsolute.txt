@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\bin\Debug\Bhalolagena.exe.config
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\bin\Debug\Bhalolagena.exe
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\bin\Debug\Bhalolagena.pdb
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\bin\Debug\Bhalolagena.xml
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\obj\Debug\Bhalolagena.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\obj\Debug\Bhalolagena.Resources.resources
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\obj\Debug\Bhalolagena.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\obj\Debug\Bhalolagena.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\obj\Debug\Bhalolagena.exe
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\obj\Debug\Bhalolagena.xml
+C:\Users\User\source\repos\Bhalolagena\Bhalolagena\obj\Debug\Bhalolagena.pdb
